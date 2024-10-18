@@ -1,0 +1,31 @@
+{
+  "name": "urban_ex8",
+  "version": "1.0.0",
+  "description": "Выполение задания модуля 8 Urban university",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgorKntt/urban_ex8.git"
+  },
+  "keywords": [
+    "urban",
+    "excercise8"
+  ],
+  "author": "IgorKntt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IgorKntt/urban_ex8/issues"
+  },
+  "homepage": "https://github.com/IgorKntt/urban_ex8#readme",
+  "dependencies": {
+    "express": "^4.21.1",
+    "pg": "^8.13.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
